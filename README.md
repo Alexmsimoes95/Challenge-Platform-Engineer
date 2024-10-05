@@ -12,7 +12,7 @@ This repository provides the steps to run a Tomcat 10.1.28 on a OracleLinux 9 us
 - You can download the content using HTTPS or ssh. If you opt for downloading using ssh, you should have git installed on your machine and can clone the repository by running the following command:
    
    `git clone https://github.com/Alexmsimoes95/Challenge-de-Platform-Engineer-XpandIT.git`
-- To dockarize the application correctly you should place inside the repository created folder "Challenge Platform Engineer".
+- To dockarize the application correctly you should place inside the repository created folder "Challenge-Platform-Engineer".
 
 **Generate the CA certificates**
 - Inside the project folder run the command `./self-signer.sh` it will generate the CA certificate for further sign the tomcat certificate.
